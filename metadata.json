@@ -1,0 +1,6 @@
+{
+  "name": "Awaaz - Peshawar Civic Reporting",
+  "description": "Mobile-first civic complaint reporting for citizens of Peshawar with AI-powered voice, photo, and geolocation analysis.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

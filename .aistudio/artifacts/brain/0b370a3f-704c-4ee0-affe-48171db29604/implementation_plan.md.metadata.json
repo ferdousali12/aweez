@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for Awaaz, a mobile-first civic complaint web app for citizens of Peshawar, Khyber Pakhtunkhwa. Covers citizen reporting with multimodal AI analysis (photo + audio + text in one Gemini call), personal complaint tracking, and an admin triage dashboard with visual map toggle.",
+  "updatedAt":  "2026-10-24T08:24:53.213884368Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
